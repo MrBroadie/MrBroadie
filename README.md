@@ -4,5 +4,5 @@
 - 📫 How to reach me Discord - Broadie #2576
 
 Check out my latest projects:
-- https://github.com/MrBroadie/FinWiz_client
-- https://github.com/MrBroadie/CandleCommerce
+- https://github.com/MrBroadie/FinWiz_client. Video demonstration: https://youtu.be/kMm68jjbzYg
+- https://github.com/MrBroadie/CandleCommerce. Video demonstration: https://youtu.be/xZIM3SJb8po
