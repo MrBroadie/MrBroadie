@@ -5,5 +5,5 @@
 
 Check out my latest projects:
 - https://github.com/MrBroadie/FinWiz_client
-- https://github.com/MrBroadie/FinWiz_server. Video demonstration: https://youtu.be/KAbI9Jo6Lbg
+- https://github.com/MrBroadie/FinWiz_server. Video demonstration: https://youtu.be/tp0J9fNyDNU
 - https://github.com/MrBroadie/CandleCommerce. Video demonstration: https://youtu.be/xZIM3SJb8po
