@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrBroadie
 - 👾 My favourite programming languages are: JavaScript/ TypeScript, Python and Bash.
 - 🤖 My favourite frameworks are: React, Node.js, Express.js, Koa.js and Django.
-- 💾 My favourite Cloud, Infrastructure and Automation tools are: AWS, Jenkins, Terraform and Docker.
+- 💾 My favourite cloud, infrastructure and automation tools are: AWS, Jenkins, Terraform and Docker.
 - 🌱 I’m currently working as a Delivery Consultant for GlobalLogic UK & I
 - 📫 How to reach me Discord - Broadie #2576
 
