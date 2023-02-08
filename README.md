@@ -8,7 +8,7 @@
 
 Check out my latest personal projects:
 - GlowZo Candles - an ecommerce site for a local business:
-    - https://github.com/MrBroadie/glow-zo-candles
+    - [https://github.com/MrBroadie/glow-zo-candles](https://github.com/MrBroadie/glow-zo-candles/tree/main/client)
     - <deployed link here>
 
 - FinWiz (A stock market portfolio tracker): Video demonstration: https://youtu.be/tp0J9fNyDNU
