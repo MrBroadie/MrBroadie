@@ -13,4 +13,7 @@ Check out my latest personal projects:
 
 - FinWiz (A stock market portfolio tracker): Video demonstration: https://youtu.be/tp0J9fNyDNU
     - https://github.com/MrBroadie/FinWiz_client
-    - https://github.com/MrBroadie/FinWiz_server. 
+    - https://github.com/MrBroadie/FinWiz_server
+    
+- BuzzwordBingo - To keep people attentive in your meetings:
+    - https://github.com/MrBroadie/bingoapp
