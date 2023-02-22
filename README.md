@@ -4,7 +4,9 @@
 - 💾 My favourite cloud, infrastructure and automation tools are: AWS, Jenkins, Terraform and Docker.
 - 🗄 Other areas of technology that I like to work with are Database tools such as: PostgreSQL, MySQL, MongoDB, Mongoose and Prisma.
 - 🌱 I’m currently working as a Delivery Consultant for GlobalLogic UK & I.
-- 📫 How to reach me Discord - Broadie #2576.
+- 📫 How to reach me 
+    - Discord - Broadie #2576
+    - LinkedIn - https://www.linkedin.com/in/tom-broad-0466ab154/
 
 Check out my latest personal projects:
 - GlowZo Candles - an ecommerce site for a local business:
