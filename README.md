@@ -6,7 +6,7 @@
 - 🌱 I’m currently working as a Delivery Consultant for GlobalLogic UK & I.
 - 📫 How to reach me 
     - Discord - Broadie #2576
-    - LinkedIn - https://www.linkedin.com/in/tom-broad-0466ab154/
+    - LinkedIn - https://www.linkedin.com/in/tom-broad-software-developer
 
 Check out my latest personal projects:
 - GlowZo Candles - an ecommerce site for a local business:
