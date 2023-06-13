@@ -3,7 +3,7 @@
 - 🤖 My favourite frameworks are: React, Redux, Node.js, Express.js and Tailwind.
 - 💾 My favourite cloud, infrastructure and automation tools are: AWS, Jenkins, Terraform and Docker.
 - 🗄 Other areas of technology that I like to work with are Database tools such as: PostgreSQL, MySQL, MongoDB, Mongoose and Prisma.
-- 🌱 I’m currently working as a Delivery Consultant for GlobalLogic UK & I.
+- 🌱 I’m currently working as a Software Engineer for GlobalLogic UK & I.
 - 📫 How to reach me 
     - Discord - Broadie #2576
     - LinkedIn - https://www.linkedin.com/in/tom-broad-software-developer
