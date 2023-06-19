@@ -5,7 +5,7 @@
 - 🗄 Other areas of technology that I like to work with are Database tools such as: PostgreSQL, MySQL, MongoDB, Mongoose and Prisma.
 - 🌱 I’m currently working as a Software Engineer for GlobalLogic UK & I.
 - 📫 How to reach me 
-    - Discord - Broadie #2576
+    - Discord - mrbroadie
     - LinkedIn - https://www.linkedin.com/in/tom-broad-software-developer
 
 Check out my latest personal projects:
