@@ -1,11 +1,9 @@
 - 👋 Hi, I’m Tom.
-- 👾 My favourite programming languages are: JavaScript/ TypeScript, Python and Bash.
-- 🤖 My favourite frameworks are: React, Redux, Node.js, Express.js and Tailwind.
-- 💾 My favourite cloud, infrastructure and automation tools are: AWS, Jenkins, Terraform and Docker.
-- 🗄 Other areas of technology that I like to work with are Database tools such as: PostgreSQL, MySQL, MongoDB, Mongoose and Prisma.
-- 🌱 I’m currently working as a Software Engineer for GlobalLogic UK & I.
+- 👾 My favourite programming languages and frameworks are: TypeScript, React, Redux and Node.js 
+- 🤖 For cloud, infrastructure and automation tools I like to use: AWS and Docker.
+- 🗄 Other areas of technology that I like to work with are Database tools such as: PostgreSQL, MongoDB and DynamoDB.
+- 🌱 I’m currently working as a Software Engineer for Gamma Communications plc.
 - 📫 How to reach me 
-    - Discord - mrbroadie
     - LinkedIn - https://www.linkedin.com/in/tom-broad-software-developer
 
 Check out my latest personal projects:
